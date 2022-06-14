@@ -1,8 +1,7 @@
 <?php
 
 /**
- * Classe Agenda - baseado no modelo Active Record (Simplificado) 
- * @author Alexandre Bezerra Barbosa
+ * Classe Agenda 
  */
 class Agenda
 {
