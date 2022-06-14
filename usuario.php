@@ -1,9 +1,5 @@
 <?php
 
-/**
- * Classe Usuario - baseado no modelo Active Record (Simplificado) 
- * @author Alexandre Bezerra Barbosa
- */
 class Usuario
 {
     private $atributos;
