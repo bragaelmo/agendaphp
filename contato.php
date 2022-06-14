@@ -1,9 +1,6 @@
 <?php
 
-/**
- * Classe Contato - baseado no modelo Active Record (Simplificado) 
- * @author Alexandre Bezerra Barbosa
- */
+
 class Contato
 {
     private $atributos;
