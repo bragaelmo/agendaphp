@@ -1,5 +1,6 @@
 # agendaphp
 Uma simples agenda em PHP com Mysql no padrão MVC
+Suba a database e edite o arquivo conexao.php com seus dados.
 
 O sistema possui 3 telas. Index:
 ![image](https://user-images.githubusercontent.com/78914652/173597316-6c107617-f6f7-418e-84a1-157b2743e3ec.png)
